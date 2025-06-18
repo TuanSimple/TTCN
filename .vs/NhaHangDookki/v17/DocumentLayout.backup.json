@@ -1,0 +1,1117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmkhachcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmkhachcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmkhachcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmkhachcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|c:\\users\\admin\\onedrive\\documents\\cacmonhoc\\nam3\\ky2\\ttcn\\nhahangdookki\\nhahangdookki\\thungan\\frmbanhang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmbanhang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmthungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmthungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmbaocaokho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmbaocaokho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmthukho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmthukho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmbaocaokho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmbaocaokho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|c:\\users\\admin\\onedrive\\documents\\cacmonhoc\\nam3\\ky2\\ttcn\\nhahangdookki\\nhahangdookki\\thukho\\frmbaocaokho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmbaocaokho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmchiphinhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmchiphinhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmchiphinhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmchiphinhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|c:\\users\\admin\\onedrive\\documents\\cacmonhoc\\nam3\\ky2\\ttcn\\nhahangdookki\\nhahangdookki\\quanly\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmthungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmthungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmthanhtoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmthanhtoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thungan\\frmthungan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thungan\\frmthungan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmthukho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmthukho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmthongtintk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmthongtintk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmnguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmnguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmcalamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmcalamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmnguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmnguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmthongtintk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmthongtintk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmcalamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmcalamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmthukho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmthukho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\LapTrinhNET\\BTLdotnet\\QuanLyCuaHangCaPhe\\QuanLyCuaHangCaPhe\\frm_quanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\formbaocao\\frmtonkho.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\formbaocao\\frmtonkho.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\quanly\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\quanly\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\thukho\\frmkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\thukho\\frmkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\loadingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\loadingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\nhahangdookki\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4BD6A548-A377-4AFC-B132-DFB56D96C48F}|NhaHangDookki\\NhaHangDookki.csproj|solutionrelative:nhahangdookki\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmDichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmDichVu.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmDichVu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmDichVu.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:33:11.179Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmBanHang.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmBanHang.resx",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmBanHang.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmBanHang.resx",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmBanHang.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-06T01:33:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmBaoCaoKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmBaoCaoKho.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmBaoCaoKho.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmBaoCaoKho.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmBaoCaoKho.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAcwIYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:23:58.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmQuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmQuanLy.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmQuanLy.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmQuanLy.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:04:32.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:00:15.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmChiPhiNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:00:03.752Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmThuNgan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThuNgan.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmThuNgan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThuNgan.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmThuNgan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:38:54.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKhachCho.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmKhachCho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmKhachCho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmKhachCho.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmKhachCho.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:24:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKhachCho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmKhachCho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmKhachCho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmKhachCho.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmKhachCho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:20:18.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmInHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmInHoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmInHoaDon.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmInHoaDon.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:50:51.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmInHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmInHoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmInHoaDon.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:48:48.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmThanhToan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThanhToan.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmThanhToan.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThanhToan.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmThanhToan.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:09:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmThanhToan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThanhToan.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmThanhToan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:08:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmThanhToan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThanhToan.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:08:08.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmBanHang.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmBanHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmBanHang.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmBanHang.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAgwH4CAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:07:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmThuNgan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThuNgan.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmThuNgan.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThuNgan.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmThuNgan.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAawKwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:17:22.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmThuNgan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThuNgan.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmThuNgan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmThuNgan.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmThuNgan.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:16:29.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmBanHang.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuNgan\\frmBanHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuNgan\\frmBanHang.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuNgan\\frmBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:50:17.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmThuKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmThuKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmThuKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmThuKho.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmThuKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:06:08.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoginForm.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoginForm.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:37:26.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmThongTinTK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmThongTinTK.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmThongTinTK.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmThongTinTK.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmThongTinTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:32:04.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmBaoCaoKho.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:11:35.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBaoCaoKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmBaoCaoKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:37:33.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmThuKho.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmThuKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmThuKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmThuKho.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmThuKho.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAEwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:47:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmThuKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmThuKho.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmThuKho.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmThuKho.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmThuKho.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:46:43.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoginForm.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoginForm.cs",
+              "RelativeToolTip": "NhaHangDookki\\LoginForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:04:23.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frm_quanlyban.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\LapTrinhNET\\BTLdotnet\\QuanLyCuaHangCaPhe\\QuanLyCuaHangCaPhe\\frm_quanlyban.cs",
+              "RelativeDocumentMoniker": "..\\..\\LapTrinhNET\\BTLdotnet\\QuanLyCuaHangCaPhe\\QuanLyCuaHangCaPhe\\frm_quanlyban.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\LapTrinhNET\\BTLdotnet\\QuanLyCuaHangCaPhe\\QuanLyCuaHangCaPhe\\frm_quanlyban.cs",
+              "RelativeToolTip": "..\\..\\LapTrinhNET\\BTLdotnet\\QuanLyCuaHangCaPhe\\QuanLyCuaHangCaPhe\\frm_quanlyban.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:11:30.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmChiPhiNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmChiPhiNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:30:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmTonKho.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.resx",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.resx",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-22T20:26:34.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmTonKho.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:24:13.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAnwKwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:19:52.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\FormBaoCao\\frmDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:03:16.529Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmBaoCao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBaoCao.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmBaoCao.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBaoCao.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmBaoCao.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:30:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmBaoCao.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBaoCao.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmBaoCao.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:27:48.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmBaoCao.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBaoCao.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:32:20.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmKho.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmKho.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmKho.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmKho.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:49:35.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmNhanVien.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmNhanVien.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIA8wDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:22:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmCaLamViec.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmCaLamViec.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmCaLamViec.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmCaLamViec.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmCaLamViec.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowMEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:19:05.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmCaLamViec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmCaLamViec.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmCaLamViec.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmCaLamViec.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmCaLamViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:13:23.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmLichLamViec.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmLichLamViec.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmLichLamViec.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmLichLamViec.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmLichLamViec.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:39:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmLichLamViec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmLichLamViec.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmLichLamViec.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmLichLamViec.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmLichLamViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:31:19.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmNhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNhaCungCap.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmNhaCungCap.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAowMkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:30:59.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmNhaCungCap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNhaCungCap.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:28:09.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:49:52.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmTaiKhoan.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmTaiKhoan.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAgwMQAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:47:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:46:11.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmKhuyenMai.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmKhuyenMai.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmKhuyenMai.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmKhuyenMai.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmKhuyenMai.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowM0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:11:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmKhuyenMai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmKhuyenMai.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmKhuyenMai.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmKhuyenMai.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmKhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:47:26.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmKho.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:32:42.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmKho.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmKho.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmKho.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmKho.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmKho.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:58:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmNguyenLieu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNguyenLieu.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmNguyenLieu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNguyenLieu.cs",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmNguyenLieu.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAawE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:55:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmNguyenLieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNguyenLieu.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\ThuKho\\frmNguyenLieu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\ThuKho\\frmNguyenLieu.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\ThuKho\\frmNguyenLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:54:06.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmDichVu.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmDichVu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmDichVu.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmDichVu.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv7YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:37:30.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmBanAn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBanAn.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmBanAn.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBanAn.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmBanAn.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwJIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:45:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmBanAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBanAn.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmBanAn.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmBanAn.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmBanAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:38:50.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmThongTinTK.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmThongTinTK.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmThongTinTK.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmThongTinTK.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmThongTinTK.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:29:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmQuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmQuanLy.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\QuanLy\\frmQuanLy.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\QuanLy\\frmQuanLy.cs",
+              "RelativeToolTip": "NhaHangDookki\\QuanLy\\frmQuanLy.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:19:52.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\StaticData.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\StaticData.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\StaticData.cs",
+              "RelativeToolTip": "NhaHangDookki\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:30:39.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoadingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoadingForm.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\LoadingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoadingForm.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\LoadingForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:27:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoadingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoadingForm.cs",
+              "RelativeToolTip": "NhaHangDookki\\LoadingForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:23:03.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\Program.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\Program.cs",
+              "RelativeToolTip": "NhaHangDookki\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:54:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\Functions.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\Functions.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\Functions.cs*",
+              "RelativeToolTip": "NhaHangDookki\\Functions.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswHkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:52:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LoadingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoadingForm.cs [Design]",
+              "RelativeToolTip": "NhaHangDookki\\LoadingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:41:26.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "NhaHangDookki\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\LoginForm.Designer.cs",
+              "RelativeToolTip": "NhaHangDookki\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:24:08.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "NhaHangDookki\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\CacMonHoc\\Nam3\\Ky2\\TTCN\\NhaHangDookki\\NhaHangDookki\\Properties\\Resources.resx",
+              "RelativeToolTip": "NhaHangDookki\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-12T17:26:58.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
